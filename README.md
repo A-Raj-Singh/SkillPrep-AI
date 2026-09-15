@@ -7,6 +7,7 @@ Core Flow
 Resume/Profile → Interview Configuration → AI Interview → Evaluation → Personalized Report
 
 Key Features
+<li>
 📄 Resume-based Interview — Questions generated from the candidate's resume.
 🎯 Skill-specific Interview — Practice specific skills such as Java, Spring Boot, SQL, React, etc.
 🤖 AI-generated Questions — Dynamic questions based on candidate level and selected skills.
@@ -14,3 +15,4 @@ Key Features
 📊 AI Evaluation — Analyzes answers for correctness, relevance, clarity, and depth.
 📈 Performance Report — Provides scores, strengths, weaknesses, and improvement areas.
 🧠 Personalized Preparation — Recommends topics and questions based on performance.
+</li>
