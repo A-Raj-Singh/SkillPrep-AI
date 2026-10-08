@@ -1,6 +1,6 @@
 import { ArrowRight, Sparkles, BrainCircuit } from "lucide-react";
 
-function Cta() {
+function CTA() {
   return (
     <section className="relative overflow-hidden bg-slate-950 px-5 py-24 sm:px-8 lg:px-10">
       {/* Background Glow */}
@@ -67,4 +67,4 @@ function Cta() {
   );
 }
 
-export default Cta;
+export default CTA;

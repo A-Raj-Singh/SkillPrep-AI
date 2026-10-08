@@ -2,7 +2,7 @@ import Hero from "../components/Hero";
 import Features from "../components/Features";
 import HowItWorks from "../components/HowItWorks";
 import Benefits from "../components/Benefits";
-import Cta from "../components/Cta";
+import CTA from "../components/CTA";
 import Footer from "../components/Footer";
 
 function Home() {
@@ -12,7 +12,7 @@ function Home() {
       <Features />
       <HowItWorks />
       <Benefits />
-      <Cta />
+      <CTA />
       <Footer />
     </>
   );
