@@ -3,7 +3,7 @@
 SkillPrep-AI
 </h2>
 
-is an AI-powered interview preparation platform that helps candidates prepare for technical interviews through personalized, AI-generated mock interviews.
+SkillPrep-AI is an AI-powered interview preparation platform that helps candidates prepare for technical interviews through personalized, AI-generated mock interviews.
 
 Users can upload their resume/profile, select their target role and skills, and configure an interview. The AI analyzes the candidate's background and generates relevant questions based on their skills, experience, projects, and target role.
 
